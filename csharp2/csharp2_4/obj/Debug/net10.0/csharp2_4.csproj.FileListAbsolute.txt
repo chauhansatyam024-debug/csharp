@@ -1,0 +1,15 @@
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/bin/Debug/net10.0/csharp2_4
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/bin/Debug/net10.0/csharp2_4.deps.json
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/bin/Debug/net10.0/csharp2_4.runtimeconfig.json
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/bin/Debug/net10.0/csharp2_4.dll
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/bin/Debug/net10.0/csharp2_4.pdb
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/obj/Debug/net10.0/csharp2_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/obj/Debug/net10.0/csharp2_4.AssemblyInfoInputs.cache
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/obj/Debug/net10.0/csharp2_4.AssemblyInfo.cs
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/obj/Debug/net10.0/csharp2_4.csproj.CoreCompileInputs.cache
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/obj/Debug/net10.0/csharp2_4.sourcelink.json
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/obj/Debug/net10.0/csharp2_4.dll
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/obj/Debug/net10.0/refint/csharp2_4.dll
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/obj/Debug/net10.0/csharp2_4.pdb
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/obj/Debug/net10.0/csharp2_4.genruntimeconfig.cache
+/home/satyamchauhan/c_sharp_learning/csharp2/csharp2_4/obj/Debug/net10.0/ref/csharp2_4.dll
